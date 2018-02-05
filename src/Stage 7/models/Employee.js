@@ -4,10 +4,9 @@ export default class Employee {
     this.name = name;
     this.phone = phone;
     this.title = title;
-
-
-
   }
+
+
 
   updateName (str) {
     this.name = str;
